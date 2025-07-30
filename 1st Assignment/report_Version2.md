@@ -1,7 +1,7 @@
 # 🌐 Network Fundamentals Report: The Internet's Secret Language
 **Date:** 2025-07-30  
-**Prepared by:** RAAPPO  
-**Subject:** How Your WiFi Actually Works (Spoiler: It's Like Magic, But With Rules!)
+**Prepared by:** ADITYA V J **Reg no:** 2460311 **email:** aditya.vj@btech.christuniversity.in  
+**Subject:** How Your WiFi Actually Works, Basic Networking Concepts (Spoiler: It's Like Magic, But With Rules!)
 
 ---
 
@@ -11,7 +11,7 @@
 ```
 🏠 Your House (One Address to Rule Them All):
 ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
-│  💻 Laptop  │    │  📱 Phone   │    │  📺 TV      │
+│  💻 Laptop  │    │  📱 Phone   │    │  📺 TV     │
 │"Room 10"    │    │"Room 11"    │    │"Room 12"    │
 │192.168.1.10 │    │192.168.1.11 │    │192.168.1.12 │
 └─────────────┘    └─────────────┘    └─────────────┘
@@ -63,7 +63,7 @@ Computer A 💻                               Computer B 🖨️
 
 📦 Digital Package Delivery:
 ┌───────────────────┬───────────────────┬──────────────┐
-│ 🏠 "Deliver To"   │ 📤 "From"         │ 📄 Contents  │
+│ 🏠 "Deliver To"   │ 📤 "From"        │ 📄 Contents  │
 │ Bob's Computer    │ Alice's Phone     │ Cat Videos   │
 └───────────────────┴───────────────────┴──────────────┘
 ```
@@ -102,12 +102,12 @@ Think: Country.State.City.House = Internet.Network.Subnet.Device
 ```
 🆚 The Great Address War:
 ┌─────────────────┬─────────────────┬─────────────────┐
-│ 📊 Feature      │ 📞 IPv4 (Old)   │ 🚀 IPv6 (New)   │
+│ 📊 Feature      │ 📞 IPv4 (Old)  │ 🚀 IPv6 (New)   │
 ├─────────────────┼─────────────────┼─────────────────┤
 │ Address Length  │ 192.168.1.1     │ 2001:db8::1     │
 │ Total Addresses │ 4.3 billion     │ 340 UNDECILLION │
-│ Setup Difficulty│ 😤 Annoying     │ 🎯 Automatic    │
-│ Need Sharing?   │ 😭 Yes (NAT)    │ 😎 Nope!        │
+│ Setup Difficulty│ 😤 Annoying    │ 🎯 Automatic    │
+│ Need Sharing?   │ 😭 Yes (NAT)   │ 😎 Nope!        │
 └─────────────────┴─────────────────┴─────────────────┘
 
 🤖 Auto-Magic Configuration:
@@ -125,16 +125,16 @@ No human intervention required! 🎉
 ```
 🎬 The Complete Netflix-and-Chill Journey:
 ┌─────────────────────────────────────────────────────────────┐
-│ 1. 😴 You: "Netflix time!"                                  │
+│ 1. 😴 You: "Netflix time!"                                 │
 │ 2. 💻 Laptop: "Need to find Netflix's house address!"      │
-│ 3. 🗺️ IPv4: "Netflix lives at 208.65.153.238"            │
-│ 4. 🔍 ARP: "What's my router's apartment number?"         │
-│ 5. 🆔 MAC: "Router is at apartment AA:BB:CC:DD:EE:FF"     │
-│ 6. 🏠 NAT: "Tell Netflix this came from our house!"       │
+│ 3. 🗺️ IPv4: "Netflix lives at 208.65.153.238"              │
+│ 4. 🔍 ARP: "What's my router's apartment number?"          │
+│ 5. 🆔 MAC: "Router is at apartment AA:BB:CC:DD:EE:FF"      │
+│ 6. 🏠 NAT: "Tell Netflix this came from our house!"        │
 │ 7. 🌍 Internet: *magic routing happens*                    │
-│ 8. 📺 Netflix: "Here's your show!" *sends data back*      │
-│ 9. 🏠 NAT: "This belongs to the laptop in room 10!"       │
-│ 10. 😍 You: "Binge-watching activated!" 🍿                │
+│ 8. 📺 Netflix: "Here's your show!" *sends data back*       │
+│ 9. 🏠 NAT: "This belongs to the laptop in room 10!"        │
+│ 10. 😍 You: "Binge-watching activated!" 🍿                 │
 └─────────────────────────────────────────────────────────────┘
 ```
 
