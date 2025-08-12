@@ -7,7 +7,7 @@
 A **network** is a collection of devices (computers, servers, phones, IoT devices) connected together to share data and resources. Networks can use **wired** (Ethernet cables) or **wireless** (Wi-Fi, Bluetooth) connections.
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/NetworkTopologies.png" width="600" alt="Network Topologies Diagram"/>
+  <img src="https://i0.wp.com/systemzone.net/wp-content/uploads/2017/09/Networking-Topology.png" width="600" alt="Network Topologies Diagram"/>
   <br/><sup><i>Common network topologies: bus, star, ring, mesh, hybrid</i></sup>
 </div>
 
@@ -40,7 +40,7 @@ A **subnet** (sub-network) divides a larger network into smaller, manageable seg
 - Simplify network management.
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Network_subnetting.png" width="400" alt="Subnetting Example"/>
+  <img src="https://cdn.networklessons.com/wp-content/uploads/2017/01/network-subnetting-example-class-c.png" width="400" alt="Subnetting Example"/>
   <br/><sup><i>Subnetting an IP range</i></sup>
 </div>
 
@@ -141,7 +141,7 @@ The process of gathering information about targets, crucial for ethical hacking 
 - Run vulnerability scripts.
 
 <div align="center">
-  <img src="https://nmap.org/images/screenshots/nmap-gui.png" width="600" alt="Nmap Scan Example"/>
+  <img src="https://4554405.fs1.hubspotusercontent-na1.net/hubfs/4554405/Imported_Blog_Media/image2-1-Mar-12-2024-03-01-45-0211-PM.png" width="600" alt="Nmap Scan Example"/>
   <br/><sup><i>Nmap graphical output example</i></sup>
 </div>
 
